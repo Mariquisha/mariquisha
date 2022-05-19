@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Vue.js
 - 👯 I’m looking to collaborate on ... AR/VR projects
 - 💬 Ask me about ... Anything :)
-- 📫 How to reach me: ... [link](https://twitter.com/thedigitalmari)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/thedigitalmari)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I've been cage diving with sharks in Cape Town, SA
 
